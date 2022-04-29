@@ -8,8 +8,8 @@ import static java.lang.System.out;
 import java.util.Scanner;
 
 /*
-1. Entrar via teclado com a base e a altura de um retângulo, calcular e exibir sua
-área. 
+1. Entrar com dois valores via teclado, onde o segundo valor deverá ser maior que o primeiro.
+Caso contrário solicitar novamente apenas o segundo valor.
 
 Fernando Avelino da Silva CB3008053
 Vinícius Lopes Nunes      CB1640879
